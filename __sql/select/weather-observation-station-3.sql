@@ -1,0 +1,2 @@
+SELECT DISTINCT CITY from STATION
+Where mod(ID,2)=0
